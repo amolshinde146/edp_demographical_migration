@@ -1,0 +1,5 @@
+{
+  "varchar": "STRING",
+  "int": "BIGINT",
+  "text": "STRING"
+}
